@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/hanuman-portfolio1/static/css/main.74d99c1e.css",
-    "main.js": "/hanuman-portfolio1/static/js/main.193f478d.js",
+    "main.css": "/hanuman-portfolio1/static/css/main.645fb36c.css",
+    "main.js": "/hanuman-portfolio1/static/js/main.2b56fad0.js",
+    "static/media/background-image.jpg": "/hanuman-portfolio1/static/media/background-image.3f30eb814f6a8b1da6e9.jpg",
     "static/media/securehospitalsystem.jpg": "/hanuman-portfolio1/static/media/securehospitalsystem.b394fc4f18cfd4343d60.jpg",
     "static/media/Hlogo1.jpg": "/hanuman-portfolio1/static/media/Hlogo1.cde1fed1716e2879f148.jpg",
     "static/media/android.jpg": "/hanuman-portfolio1/static/media/android.97462382aa1cefa9cda0.jpg",
     "static/media/swmImage.jpg": "/hanuman-portfolio1/static/media/swmImage.fcfcc594c16a49e045cc.jpg",
     "static/media/myphoto.jpeg": "/hanuman-portfolio1/static/media/myphoto.bcf7f6b6de0ccafe75b5.jpeg",
     "index.html": "/hanuman-portfolio1/index.html",
-    "main.74d99c1e.css.map": "/hanuman-portfolio1/static/css/main.74d99c1e.css.map",
-    "main.193f478d.js.map": "/hanuman-portfolio1/static/js/main.193f478d.js.map"
+    "main.645fb36c.css.map": "/hanuman-portfolio1/static/css/main.645fb36c.css.map",
+    "main.2b56fad0.js.map": "/hanuman-portfolio1/static/js/main.2b56fad0.js.map"
   },
   "entrypoints": [
-    "static/css/main.74d99c1e.css",
-    "static/js/main.193f478d.js"
+    "static/css/main.645fb36c.css",
+    "static/js/main.2b56fad0.js"
   ]
 }
