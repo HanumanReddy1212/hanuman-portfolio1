@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-item">
           <FaHome size={20} style={{ color: 'teal' }} />
-          <p>Tempe, Arizona</p>
+          <p>Irving, Texas</p>
         </div>
         <div className="footer-item">
           <FaPhone size={20} style={{ color: 'teal' }} />
